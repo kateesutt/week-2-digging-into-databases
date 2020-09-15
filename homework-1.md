@@ -18,7 +18,7 @@ Load all three datasets into your CARTO account.
 
 ```SQL
 SELECT count(*)
-FROM andyepenn.indego_trips_2019_q2
+FROM ksutton.indego_trips_2019_q2
 ```
 
 **Result:** 206354
